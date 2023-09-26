@@ -72,5 +72,2226 @@
       "website": "https://www.cubyts.com/",
       "email": "contact@cubyts.com"
     }
+  ],
+  "Stock_analysis": [
+    {
+      "id": 1,
+      "basic": {
+        "Name": "Delta Corp Limited",
+        "Symbol": "DELTACORP",
+        "Industry": "Consumer Services",
+        "Price": 204.95,
+        "Price_Change": -0.08
+      },
+      "price_chart": {
+        "Weekly_Price": {
+          "2023-08-18": 180.7,
+          "2023-08-25": 159.2,
+          "2023-09-01": 162.7,
+          "2023-09-08": 175.1,
+          "2023-09-11": 184.95,
+          "2023-09-12": 162.7,
+          "2023-09-15": 175.1,
+          "2023-09-16": 154.95,
+          "2023-09-17": 184.95,
+          "2023-09-20": 162.7,
+          "2023-09-23": 175.1,
+          "2023-09-25": 154.95
+        }
+      },
+      "financial": 60.74,
+      "technical": {
+        "Trend": "Neutral",
+        "Target": 0,
+        "StopLoss": 0
+      },
+      "strength": [
+        "Sales Growth qoq: Very Good",
+        "Margin: Very Good",
+        "Dividend Payout %: Good",
+        "PE: Very Good",
+        "DE: Very Good"
+      ],
+      "weakness": [
+        "Sales Growth yoy: Very Bad",
+        "Promoters: Very Bad",
+        "ROE: Bad"
+      ],
+      "info": {
+        "Bluechip": "No",
+        "PE": 18.93,
+        "DE": 0.15,
+        "Price_Change_1day": -0.08,
+        "Price_Change_1week": -1.07,
+        "Price_Change_1month": 0.33,
+        "Price_Change_1year": -12.8
+      },
+      "RevenueTrend": {
+        "X": {
+          "January": 180.7,
+          "February": 159.2,
+          "March": 162.7,
+          "April": 175.1,
+          "May": 175.1,
+          "June": 184.95,
+          "July": 162.7,
+          "August": 175.1,
+          "September": 154.95,
+          "October": 184.95,
+          "November": 162.7,
+          "December": 154.95
+        },
+        "Y": {
+          "January": 110.7,
+          "February": 159.2,
+          "March": 122.7,
+          "April": 175.1,
+          "May": 185.1,
+          "June": 134.95,
+          "July": 152.7,
+          "August": 165.1,
+          "September": 174.95,
+          "October": 134.95,
+          "November": 112.7,
+          "December": 1974.95
+        }
+      },
+      "sales_profit": {
+        "2022-06-01": {
+          "Sales": 250,
+          "Net_Profit": 57
+        },
+        "2022-09-01": {
+          "Sales": 270,
+          "Net_Profit": 69
+        },
+        "2022-12-01": {
+          "Sales": 273,
+          "Net_Profit": 85
+        },
+        "2023-03-01": {
+          "Sales": 227,
+          "Net_Profit": 51
+        },
+        "2023-06-01": {
+          "Sales": 273,
+          "Net_Profit": 68
+        }
+      },
+      "suggestions": {
+        "TRENT": {
+          "Name": "Trent Ltd.",
+          "current_price": 2085.75,
+          "return_1dy": -0.04
+        },
+        "EASEMYTRIP": {
+          "Name": "Easy Trip Planners Ltd.",
+          "current_price": 39.6,
+          "return_1dy": 2.33
+        },
+        "WESTLIFE": {
+          "Name": "Westlife Foodworld Ltd.",
+          "current_price": 969.2,
+          "return_1dy": -1.31
+        },
+        "MANYAVAR": {
+          "Name": "Vedant Fashions Ltd.",
+          "current_price": 1293.75,
+          "return_1dy": 1.02
+        },
+        "MHRIL": {
+          "Name": "Mahindra Holidays & Resorts India Ltd.",
+          "current_price": 417.15,
+          "return_1dy": 1.79
+        }
+      }
+    },
+    {
+      "id": 2,
+      "basic": {
+        "Name": "Reliance Industries Limited",
+        "Symbol": "RELIANCE",
+        "Industry": "Consumer Services",
+        "Price": 2453.3,
+        "Price_Change": 2.25
+      },
+      "price_chart": {
+        "Weekly_Price": {
+          "2023-08-18": 110.7,
+          "2023-08-25": 159.2,
+          "2023-09-01": 162.7,
+          "2023-09-08": 125.1,
+          "2023-09-11": 174.95,
+          "2023-09-12": 122.7,
+          "2023-09-15": 155.1,
+          "2023-09-16": 194.95,
+          "2023-09-17": 134.95,
+          "2023-09-20": 152.7,
+          "2023-09-23": 165.1,
+          "2023-09-25": 154.95
+        }
+      },
+      "RevenueTrend": {
+        "X": {
+          "January": 130.7,
+          "February": 129.2,
+          "March": 142.7,
+          "April": 175.1,
+          "May": 125.1,
+          "June": 134.95,
+          "July": 142.7,
+          "August": 125.1,
+          "September": 154.95,
+          "October": 154.95,
+          "November": 166.7,
+          "December": 154.95
+        },
+        "Y": {
+          "January": 130.7,
+          "February": 129.2,
+          "March": 152.7,
+          "April": 165.1,
+          "May": 125.1,
+          "June": 114.95,
+          "July": 162.7,
+          "August": 135.1,
+          "September": 174.95,
+          "October": 184.95,
+          "November": 122.7,
+          "December": 194.95
+        }
+      },
+      "financial": 40.14,
+      "technical": {
+        "Trend": "High",
+        "Target": 10,
+        "StopLoss": 18
+      },
+      "strength": [
+        "Sales Growth qoq : Very Good",
+        "Margin : Very Good",
+        "Dividend Payout % : Good",
+        "PE : Very Good",
+        "DE : Very Good"
+      ],
+      "weakness": [
+        "Sales Growth yoy : Very Bad",
+        "Promoters : Very Bad",
+        "ROE : Bad"
+      ],
+      "info": {
+        "Bluechip": "No",
+        "PE": 18.93,
+        "DE": 0.15,
+        "Price_Change_1day": -0.08,
+        "Price_Change_1week": -1.07,
+        "Price_Change_1month": 0.33,
+        "Price_Change_1year": -12.8
+      },
+      "sales_profit": {
+        "2022-06-01": {
+          "Sales": 250,
+          "Net_Profit": 57
+        },
+        "2022-09-01": {
+          "Sales": 270,
+          "Net_Profit": 69
+        },
+        "2022-12-01": {
+          "Sales": 273,
+          "Net_Profit": 85
+        },
+        "2023-03-01": {
+          "Sales": 227,
+          "Net_Profit": 51
+        },
+        "2023-06-01": {
+          "Sales": 273,
+          "Net_Profit": 68
+        }
+      },
+      "suggestions": {
+        "TRENT": {
+          "Name": "Trent Ltd.",
+          "current_price": 2085.75,
+          "return_1dy": -0.04
+        },
+        "EASEMYTRIP": {
+          "Name": "Easy Trip Planners Ltd.",
+          "current_price": 39.6,
+          "return_1dy": 2.33
+        },
+        "WESTLIFE": {
+          "Name": "Westlife Foodworld Ltd.",
+          "current_price": 969.2,
+          "return_1dy": -1.31
+        },
+        "MANYAVAR": {
+          "Name": "Vedant Fashions Ltd.",
+          "current_price": 1293.75,
+          "return_1dy": 1.02
+        },
+        "MHRIL": {
+          "Name": "Mahindra Holidays & Resorts India Ltd.",
+          "current_price": 417.15,
+          "return_1dy": 1.79
+        }
+      }
+    },
+    {
+      "id": 3,
+      "basic": {
+        "Name": "HDFC Bank Limited",
+        "Symbol": "DFCBANK",
+        "Industry": "Consumer Services",
+        "Price": 1642.9,
+        "Price_Change": -0.08
+      },
+      "price_chart": {
+        "Weekly_Price": {
+          "2023-08-18": 180.7,
+          "2023-08-25": 159.2,
+          "2023-09-01": 162.7,
+          "2023-09-08": 175.1,
+          "2023-09-11": 184.95,
+          "2023-09-12": 162.7,
+          "2023-09-15": 175.1,
+          "2023-09-16": 154.95,
+          "2023-09-17": 184.95,
+          "2023-09-20": 162.7,
+          "2023-09-23": 175.1,
+          "2023-09-25": 154.95
+        }
+      },
+      "RevenueTrend": {
+        "X": {
+          "January": 120.7,
+          "February": 149.2,
+          "March": 162.7,
+          "April": 165.1,
+          "May": 175.1,
+          "June": 164.95,
+          "July": 167.7,
+          "August": 185.1,
+          "September": 124.95,
+          "October": 184.95,
+          "November": 152.7,
+          "December": 124.95
+        },
+        "Y": {
+          "January": 130.7,
+          "February": 129.2,
+          "March": 152.7,
+          "April": 165.1,
+          "May": 125.1,
+          "June": 114.95,
+          "July": 162.7,
+          "August": 135.1,
+          "September": 174.95,
+          "October": 184.95,
+          "November": 122.7,
+          "December": 194.95
+        }
+      },
+      "financial": 64.74,
+      "technical": {
+        "Trend": "High",
+        "Target": 10,
+        "StopLoss": 13
+      },
+      "strength": [
+        "Sales Growth qoq: Very Good",
+        "Margin: Very Good",
+        "Dividend Payout %: Good",
+        "PE: Very Good",
+        "DE: Very Good"
+      ],
+      "weakness": [
+        "Sales Growth yoy: Very Bad",
+        "Promoters: Very Bad",
+        "ROE: Bad"
+      ],
+      "info": {
+        "Bluechip": "No",
+        "PE": 18.93,
+        "DE": 0.15,
+        "Price_Change_1day": -0.08,
+        "Price_Change_1week": -1.07,
+        "Price_Change_1month": 0.33,
+        "Price_Change_1year": -12.8
+      },
+      "sales_profit": {
+        "2022-06-01": {
+          "Sales": 250,
+          "Net_Profit": 57
+        },
+        "2022-09-01": {
+          "Sales": 270,
+          "Net_Profit": 69
+        },
+        "2022-12-01": {
+          "Sales": 273,
+          "Net_Profit": 85
+        },
+        "2023-03-01": {
+          "Sales": 227,
+          "Net_Profit": 51
+        },
+        "2023-06-01": {
+          "Sales": 273,
+          "Net_Profit": 68
+        }
+      },
+      "suggestions": {
+        "TRENT": {
+          "Name": "Trent Ltd.",
+          "current_price": 2085.75,
+          "return_1dy": -0.04
+        },
+        "EASEMYTRIP": {
+          "Name": "Easy Trip Planners Ltd.",
+          "current_price": 39.6,
+          "return_1dy": 2.33
+        },
+        "WESTLIFE": {
+          "Name": "Westlife Foodworld Ltd.",
+          "current_price": 969.2,
+          "return_1dy": -1.31
+        },
+        "MANYAVAR": {
+          "Name": "Vedant Fashions Ltd.",
+          "current_price": 1293.75,
+          "return_1dy": 1.02
+        },
+        "MHRIL": {
+          "Name": "Mahindra Holidays & Resorts India Ltd.",
+          "current_price": 417.15,
+          "return_1dy": 1.79
+        }
+      }
+    },
+    {
+      "id": 4,
+      "basic": {
+        "Name": "ICICI Bank Limited",
+        "Symbol": "ICICIBANK",
+        "Industry": "Consumer Services",
+        "Price": 987.7,
+        "Price_Change": -0.08
+      },
+      "price_chart": {
+        "Weekly_Price": {
+          "2023-08-18": 180.7,
+          "2023-08-25": 159.2,
+          "2023-09-01": 162.7,
+          "2023-09-08": 175.1,
+          "2023-09-11": 184.95,
+          "2023-09-12": 162.7,
+          "2023-09-15": 175.1,
+          "2023-09-16": 154.95,
+          "2023-09-17": 184.95,
+          "2023-09-20": 162.7,
+          "2023-09-23": 175.1,
+          "2023-09-25": 154.95
+        }
+      },
+      "financial": 82.74,
+      "technical": {
+        "Trend": "Low",
+        "Target": 3,
+        "StopLoss": 1
+      },
+      "strength": [
+        "Sales Growth qoq: Very Good",
+        "Margin: Very Good",
+        "Dividend Payout %: Good",
+        "PE: Very Good",
+        "DE: Very Good"
+      ],
+      "weakness": [
+        "Sales Growth yoy: Very Bad",
+        "Promoters: Very Bad",
+        "ROE: Bad"
+      ],
+      "info": {
+        "Bluechip": "No",
+        "PE": 18.93,
+        "DE": 0.15,
+        "Price_Change_1day": -0.08,
+        "Price_Change_1week": -1.07,
+        "Price_Change_1month": 0.33,
+        "Price_Change_1year": -12.8
+      },
+      "RevenueTrend": {
+        "X": {
+          "January": 120.7,
+          "February": 149.2,
+          "March": 122.7,
+          "April": 145.1,
+          "May": 165.1,
+          "June": 184.95,
+          "July": 162.7,
+          "August": 175.1,
+          "September": 134.95,
+          "October": 124.95,
+          "November": 132.7,
+          "December": 154.95
+        },
+        "Y": {
+          "January": 130.7,
+          "February": 129.2,
+          "March": 152.7,
+          "April": 165.1,
+          "May": 125.1,
+          "June": 114.95,
+          "July": 162.7,
+          "August": 135.1,
+          "September": 174.95,
+          "October": 184.95,
+          "November": 122.7,
+          "December": 194.95
+        }
+      },
+      "sales_profit": {
+        "2022-06-01": {
+          "Sales": 250,
+          "Net_Profit": 57
+        },
+        "2022-09-01": {
+          "Sales": 270,
+          "Net_Profit": 69
+        },
+        "2022-12-01": {
+          "Sales": 273,
+          "Net_Profit": 85
+        },
+        "2023-03-01": {
+          "Sales": 227,
+          "Net_Profit": 51
+        },
+        "2023-06-01": {
+          "Sales": 273,
+          "Net_Profit": 68
+        }
+      },
+      "suggestions": {
+        "TRENT": {
+          "Name": "Trent Ltd.",
+          "current_price": 2085.75,
+          "return_1dy": -0.04
+        },
+        "EASEMYTRIP": {
+          "Name": "Easy Trip Planners Ltd.",
+          "current_price": 39.6,
+          "return_1dy": 2.33
+        },
+        "WESTLIFE": {
+          "Name": "Westlife Foodworld Ltd.",
+          "current_price": 969.2,
+          "return_1dy": -1.31
+        },
+        "MANYAVAR": {
+          "Name": "Vedant Fashions Ltd.",
+          "current_price": 1293.75,
+          "return_1dy": 1.02
+        },
+        "MHRIL": {
+          "Name": "Mahindra Holidays & Resorts India Ltd.",
+          "current_price": 417.15,
+          "return_1dy": 1.79
+        }
+      }
+    },
+    {
+      "id": 5,
+      "basic": {
+        "Name": "Axis Bank Limited",
+        "Symbol": "AXISBANK",
+        "Industry": "Consumer Services",
+        "Price": 1204.95,
+        "Price_Change": 0.08
+      },
+      "price_chart": {
+        "Weekly_Price": {
+          "2023-08-18": 180.7,
+          "2023-08-25": 159.2,
+          "2023-09-01": 162.7,
+          "2023-09-08": 175.1,
+          "2023-09-11": 184.95,
+          "2023-09-12": 162.7,
+          "2023-09-15": 175.1,
+          "2023-09-16": 154.95,
+          "2023-09-17": 184.95,
+          "2023-09-20": 162.7,
+          "2023-09-23": 175.1,
+          "2023-09-25": 154.95,
+          "2023-08-13": 180.7,
+          "2023-08-23": 159.2,
+          "2023-09-02": 162.7,
+          "2023-09-21": 175.1,
+          "2023-09-14": 184.95,
+          "2023-09-13": 162.7,
+          "2023-10-24": 175.1,
+          "2023-10-26": 154.95,
+          "2023-09-27": 184.95,
+          "2023-11-20": 162.7,
+          "2023-12-23": 175.1,
+          "2023-10-05": 154.95,
+          "2023-10-18": 180.7,
+          "2023-10-27": 159.2,
+          "2023-10-01": 162.7,
+          "2023-10-08": 175.1,
+          "2023-10-11": 184.95,
+          "2023-10-12": 162.7,
+          "2023-10-15": 175.1,
+          "2023-10-16": 154.95,
+          "2023-10-17": 184.95,
+          "2023-10-20": 162.7,
+          "2023-10-23": 175.1,
+          "2023-10-25": 154.95
+        }
+      },
+      "financial": 73.74,
+      "technical": {
+        "Trend": "Neutral",
+        "Target": 0,
+        "StopLoss": 0
+      },
+      "strength": [
+        "Sales Growth qoq: Very Good",
+        "Margin: Very Good",
+        "Dividend Payout %: Good",
+        "PE: Very Good",
+        "DE: Very Good"
+      ],
+      "weakness": [
+        "Sales Growth yoy : Very Bad",
+        "Promoters : Very Bad",
+        "ROE : Bad"
+      ],
+      "info": {
+        "Bluechip": "No",
+        "PE": 18.93,
+        "DE": 0.15,
+        "Price_Change_1day": -0.08,
+        "Price_Change_1week": -1.07,
+        "Price_Change_1month": 0.33,
+        "Price_Change_1year": -12.8
+      },
+      "RevenueTrend": {
+        "X": {
+          "January": 180.7,
+          "February": 159.2,
+          "March": 162.7,
+          "April": 175.1,
+          "May": 175.1,
+          "June": 184.95,
+          "July": 162.7,
+          "August": 175.1,
+          "September": 154.95,
+          "October": 184.95,
+          "November": 142.7,
+          "December": 154.95
+        },
+        "Y": {
+          "January": 150.7,
+          "February": 129.2,
+          "March": 152.7,
+          "April": 175.1,
+          "May": 145.1,
+          "June": 154.95,
+          "July": 172.7,
+          "August": 135.1,
+          "September": 144.95,
+          "October": 124.95,
+          "November": 162.7,
+          "December": 174.95
+        }
+      },
+      "sales_profit": {
+        "2022-06-01": {
+          "Sales": 250,
+          "Net_Profit": 57
+        },
+        "2022-09-01": {
+          "Sales": 270,
+          "Net_Profit": 69
+        },
+        "2022-12-01": {
+          "Sales": 273,
+          "Net_Profit": 85
+        },
+        "2023-03-01": {
+          "Sales": 227,
+          "Net_Profit": 51
+        },
+        "2023-06-01": {
+          "Sales": 273,
+          "Net_Profit": 68
+        }
+      },
+      "suggestions": {
+        "TRENT": {
+          "Name": "Trent Ltd.",
+          "current_price": 2085.75,
+          "return_1dy": -0.04
+        },
+        "EASEMYTRIP": {
+          "Name": "Easy Trip Planners Ltd.",
+          "current_price": 39.6,
+          "return_1dy": 2.33
+        },
+        "WESTLIFE": {
+          "Name": "Westlife Foodworld Ltd.",
+          "current_price": 969.2,
+          "return_1dy": -1.31
+        },
+        "MANYAVAR": {
+          "Name": "Vedant Fashions Ltd.",
+          "current_price": 1293.75,
+          "return_1dy": 1.02
+        },
+        "MHRIL": {
+          "Name": "Mahindra Holidays & Resorts India Ltd.",
+          "current_price": 417.15,
+          "return_1dy": 1.79
+        }
+      }
+    },
+    {
+      "id": 6,
+      "basic": {
+        "Name": "IndusInd Bank Limited",
+        "Symbol": "INDUSINDBK",
+        "Industry": "Consumer Services",
+        "Price": 1458.25,
+        "Price_Change": 2.08
+      },
+      "price_chart": {
+        "Weekly_Price": {
+          "2023-08-18": 180.7,
+          "2023-08-25": 159.2,
+          "2023-09-01": 162.7,
+          "2023-09-08": 175.1,
+          "2023-09-11": 184.95,
+          "2023-09-12": 162.7,
+          "2023-09-15": 175.1,
+          "2023-09-16": 154.95,
+          "2023-09-17": 184.95,
+          "2023-09-20": 162.7,
+          "2023-09-23": 175.1,
+          "2023-09-25": 154.95
+        }
+      },
+      "financial": 60.74,
+      "technical": {
+        "Trend": "High",
+        "Target": 10,
+        "StopLoss": 30
+      },
+      "strength": [
+        "Sales Growth qoq: Very Good",
+        "Margin: Very Good",
+        "Dividend Payout %: Good",
+        "PE: Very Good",
+        "DE: Very Good"
+      ],
+      "weakness": [
+        "Sales Growth yoy: Very Bad",
+        "Promoters: Very Bad",
+        "ROE: Bad"
+      ],
+      "info": {
+        "Bluechip": "No",
+        "PE": 18.93,
+        "DE": 0.15,
+        "Price_Change_1day": -0.08,
+        "Price_Change_1week": -1.07,
+        "Price_Change_1month": 0.33,
+        "Price_Change_1year": -12.8
+      },
+      "RevenueTrend": {
+        "X": {
+          "January": 180.7,
+          "February": 159.2,
+          "March": 162.7,
+          "April": 175.1,
+          "May": 175.1,
+          "June": 184.95,
+          "July": 162.7,
+          "August": 175.1,
+          "September": 154.95,
+          "October": 184.95,
+          "November": 162.7,
+          "December": 154.95
+        },
+        "Y": {
+          "January": 130.7,
+          "February": 169.2,
+          "March": 132.7,
+          "April": 185.1,
+          "May": 115.1,
+          "June": 164.95,
+          "July": 172.7,
+          "August": 125.1,
+          "September": 154.95,
+          "October": 164.95,
+          "November": 192.7,
+          "December": 184.95
+        }
+      },
+      "sales_profit": {
+        "2022-06-01": {
+          "Sales": 250,
+          "Net_Profit": 57
+        },
+        "2022-09-01": {
+          "Sales": 270,
+          "Net_Profit": 69
+        },
+        "2022-12-01": {
+          "Sales": 273,
+          "Net_Profit": 85
+        },
+        "2023-03-01": {
+          "Sales": 227,
+          "Net_Profit": 51
+        },
+        "2023-06-01": {
+          "Sales": 273,
+          "Net_Profit": 68
+        }
+      },
+      "suggestions": {
+        "TRENT": {
+          "Name": "Trent Ltd.",
+          "current_price": 2085.75,
+          "return_1dy": -0.04
+        },
+        "EASEMYTRIP": {
+          "Name": "Easy Trip Planners Ltd.",
+          "current_price": 39.6,
+          "return_1dy": 2.33
+        },
+        "WESTLIFE": {
+          "Name": "Westlife Foodworld Ltd.",
+          "current_price": 969.2,
+          "return_1dy": -1.31
+        },
+        "MANYAVAR": {
+          "Name": "Vedant Fashions Ltd.",
+          "current_price": 1293.75,
+          "return_1dy": 1.02
+        },
+        "MHRIL": {
+          "Name": "Mahindra Holidays & Resorts India Ltd.",
+          "current_price": 417.15,
+          "return_1dy": 1.79
+        }
+      }
+    }
+  ],
+  "Watchlists": [
+    {
+      "id": 1,
+      "name": " Watchlist 1",
+      "watchlists": [
+        {
+          "id": 2,
+          "basic": {
+            "Name": "Reliance Industries Limited",
+            "Symbol": "RELIANCE",
+            "Industry": "Consumer Services",
+            "Price": 2453.3,
+            "Price_Change": 2.25
+          },
+          "price_chart": {
+            "Weekly_Price": {
+              "2023-08-18": 110.7,
+              "2023-08-25": 159.2,
+              "2023-09-01": 162.7,
+              "2023-09-08": 125.1,
+              "2023-09-11": 174.95,
+              "2023-09-12": 122.7,
+              "2023-09-15": 155.1,
+              "2023-09-16": 194.95,
+              "2023-09-17": 134.95,
+              "2023-09-20": 152.7,
+              "2023-09-23": 165.1,
+              "2023-09-25": 154.95
+            }
+          },
+          "RevenueTrend": {
+            "X": {
+              "January": 130.7,
+              "February": 129.2,
+              "March": 142.7,
+              "April": 175.1,
+              "May": 125.1,
+              "June": 134.95,
+              "July": 142.7,
+              "August": 125.1,
+              "September": 154.95,
+              "October": 154.95,
+              "November": 166.7,
+              "December": 154.95
+            },
+            "Y": {
+              "January": 130.7,
+              "February": 129.2,
+              "March": 152.7,
+              "April": 165.1,
+              "May": 125.1,
+              "June": 114.95,
+              "July": 162.7,
+              "August": 135.1,
+              "September": 174.95,
+              "October": 184.95,
+              "November": 122.7,
+              "December": 194.95
+            }
+          },
+          "financial": 40.14,
+          "technical": {
+            "Trend": "High",
+            "Target": 10,
+            "StopLoss": 18
+          },
+          "strength": [
+            "Sales Growth qoq : Very Good",
+            "Margin : Very Good",
+            "Dividend Payout % : Good",
+            "PE : Very Good",
+            "DE : Very Good"
+          ],
+          "weakness": [
+            "Sales Growth yoy : Very Bad",
+            "Promoters : Very Bad",
+            "ROE : Bad"
+          ],
+          "info": {
+            "Bluechip": "No",
+            "PE": 18.93,
+            "DE": 0.15,
+            "Price_Change_1day": -0.08,
+            "Price_Change_1week": -1.07,
+            "Price_Change_1month": 0.33,
+            "Price_Change_1year": -12.8
+          },
+          "sales_profit": {
+            "2022-06-01": {
+              "Sales": 250,
+              "Net_Profit": 57
+            },
+            "2022-09-01": {
+              "Sales": 270,
+              "Net_Profit": 69
+            },
+            "2022-12-01": {
+              "Sales": 273,
+              "Net_Profit": 85
+            },
+            "2023-03-01": {
+              "Sales": 227,
+              "Net_Profit": 51
+            },
+            "2023-06-01": {
+              "Sales": 273,
+              "Net_Profit": 68
+            }
+          },
+          "suggestions": {
+            "TRENT": {
+              "Name": "Trent Ltd.",
+              "current_price": 2085.75,
+              "return_1dy": -0.04
+            },
+            "EASEMYTRIP": {
+              "Name": "Easy Trip Planners Ltd.",
+              "current_price": 39.6,
+              "return_1dy": 2.33
+            },
+            "WESTLIFE": {
+              "Name": "Westlife Foodworld Ltd.",
+              "current_price": 969.2,
+              "return_1dy": -1.31
+            },
+            "MANYAVAR": {
+              "Name": "Vedant Fashions Ltd.",
+              "current_price": 1293.75,
+              "return_1dy": 1.02
+            },
+            "MHRIL": {
+              "Name": "Mahindra Holidays & Resorts India Ltd.",
+              "current_price": 417.15,
+              "return_1dy": 1.79
+            }
+          }
+        },
+        {
+          "id": 3,
+          "basic": {
+            "Name": "HDFC Bank Limited",
+            "Symbol": "DFCBANK",
+            "Industry": "Consumer Services",
+            "Price": 1642.9,
+            "Price_Change": -0.08
+          },
+          "price_chart": {
+            "Weekly_Price": {
+              "2023-08-18": 180.7,
+              "2023-08-25": 159.2,
+              "2023-09-01": 162.7,
+              "2023-09-08": 175.1,
+              "2023-09-11": 184.95,
+              "2023-09-12": 162.7,
+              "2023-09-15": 175.1,
+              "2023-09-16": 154.95,
+              "2023-09-17": 184.95,
+              "2023-09-20": 162.7,
+              "2023-09-23": 175.1,
+              "2023-09-25": 154.95
+            }
+          },
+          "RevenueTrend": {
+            "X": {
+              "January": 120.7,
+              "February": 149.2,
+              "March": 162.7,
+              "April": 165.1,
+              "May": 175.1,
+              "June": 164.95,
+              "July": 167.7,
+              "August": 185.1,
+              "September": 124.95,
+              "October": 184.95,
+              "November": 152.7,
+              "December": 124.95
+            },
+            "Y": {
+              "January": 130.7,
+              "February": 129.2,
+              "March": 152.7,
+              "April": 165.1,
+              "May": 125.1,
+              "June": 114.95,
+              "July": 162.7,
+              "August": 135.1,
+              "September": 174.95,
+              "October": 184.95,
+              "November": 122.7,
+              "December": 194.95
+            }
+          },
+          "financial": 64.74,
+          "technical": {
+            "Trend": "High",
+            "Target": 10,
+            "StopLoss": 13
+          },
+          "strength": [
+            "Sales Growth qoq: Very Good",
+            "Margin: Very Good",
+            "Dividend Payout %: Good",
+            "PE: Very Good",
+            "DE: Very Good"
+          ],
+          "weakness": [
+            "Sales Growth yoy: Very Bad",
+            "Promoters: Very Bad",
+            "ROE: Bad"
+          ],
+          "info": {
+            "Bluechip": "No",
+            "PE": 18.93,
+            "DE": 0.15,
+            "Price_Change_1day": -0.08,
+            "Price_Change_1week": -1.07,
+            "Price_Change_1month": 0.33,
+            "Price_Change_1year": -12.8
+          },
+          "sales_profit": {
+            "2022-06-01": {
+              "Sales": 250,
+              "Net_Profit": 57
+            },
+            "2022-09-01": {
+              "Sales": 270,
+              "Net_Profit": 69
+            },
+            "2022-12-01": {
+              "Sales": 273,
+              "Net_Profit": 85
+            },
+            "2023-03-01": {
+              "Sales": 227,
+              "Net_Profit": 51
+            },
+            "2023-06-01": {
+              "Sales": 273,
+              "Net_Profit": 68
+            }
+          },
+          "suggestions": {
+            "TRENT": {
+              "Name": "Trent Ltd.",
+              "current_price": 2085.75,
+              "return_1dy": -0.04
+            },
+            "EASEMYTRIP": {
+              "Name": "Easy Trip Planners Ltd.",
+              "current_price": 39.6,
+              "return_1dy": 2.33
+            },
+            "WESTLIFE": {
+              "Name": "Westlife Foodworld Ltd.",
+              "current_price": 969.2,
+              "return_1dy": -1.31
+            },
+            "MANYAVAR": {
+              "Name": "Vedant Fashions Ltd.",
+              "current_price": 1293.75,
+              "return_1dy": 1.02
+            },
+            "MHRIL": {
+              "Name": "Mahindra Holidays & Resorts India Ltd.",
+              "current_price": 417.15,
+              "return_1dy": 1.79
+            }
+          }
+        },
+        {
+          "id": 1,
+          "basic": {
+            "Name": "Delta Corp Limited",
+            "Symbol": "DELTACORP",
+            "Industry": "Consumer Services",
+            "Price": 204.95,
+            "Price_Change": -0.08
+          },
+          "price_chart": {
+            "Weekly_Price": {
+              "2023-08-18": 180.7,
+              "2023-08-25": 159.2,
+              "2023-09-01": 162.7,
+              "2023-09-08": 175.1,
+              "2023-09-11": 184.95,
+              "2023-09-12": 162.7,
+              "2023-09-15": 175.1,
+              "2023-09-16": 154.95,
+              "2023-09-17": 184.95,
+              "2023-09-20": 162.7,
+              "2023-09-23": 175.1,
+              "2023-09-25": 154.95
+            }
+          },
+          "financial": 60.74,
+          "technical": {
+            "Trend": "Neutral",
+            "Target": 0,
+            "StopLoss": 0
+          },
+          "strength": [
+            "Sales Growth qoq: Very Good",
+            "Margin: Very Good",
+            "Dividend Payout %: Good",
+            "PE: Very Good",
+            "DE: Very Good"
+          ],
+          "weakness": [
+            "Sales Growth yoy: Very Bad",
+            "Promoters: Very Bad",
+            "ROE: Bad"
+          ],
+          "info": {
+            "Bluechip": "No",
+            "PE": 18.93,
+            "DE": 0.15,
+            "Price_Change_1day": -0.08,
+            "Price_Change_1week": -1.07,
+            "Price_Change_1month": 0.33,
+            "Price_Change_1year": -12.8
+          },
+          "RevenueTrend": {
+            "X": {
+              "January": 180.7,
+              "February": 159.2,
+              "March": 162.7,
+              "April": 175.1,
+              "May": 175.1,
+              "June": 184.95,
+              "July": 162.7,
+              "August": 175.1,
+              "September": 154.95,
+              "October": 184.95,
+              "November": 162.7,
+              "December": 154.95
+            },
+            "Y": {
+              "January": 110.7,
+              "February": 159.2,
+              "March": 122.7,
+              "April": 175.1,
+              "May": 185.1,
+              "June": 134.95,
+              "July": 152.7,
+              "August": 165.1,
+              "September": 174.95,
+              "October": 134.95,
+              "November": 112.7,
+              "December": 1974.95
+            }
+          },
+          "sales_profit": {
+            "2022-06-01": {
+              "Sales": 250,
+              "Net_Profit": 57
+            },
+            "2022-09-01": {
+              "Sales": 270,
+              "Net_Profit": 69
+            },
+            "2022-12-01": {
+              "Sales": 273,
+              "Net_Profit": 85
+            },
+            "2023-03-01": {
+              "Sales": 227,
+              "Net_Profit": 51
+            },
+            "2023-06-01": {
+              "Sales": 273,
+              "Net_Profit": 68
+            }
+          },
+          "suggestions": {
+            "TRENT": {
+              "Name": "Trent Ltd.",
+              "current_price": 2085.75,
+              "return_1dy": -0.04
+            },
+            "EASEMYTRIP": {
+              "Name": "Easy Trip Planners Ltd.",
+              "current_price": 39.6,
+              "return_1dy": 2.33
+            },
+            "WESTLIFE": {
+              "Name": "Westlife Foodworld Ltd.",
+              "current_price": 969.2,
+              "return_1dy": -1.31
+            },
+            "MANYAVAR": {
+              "Name": "Vedant Fashions Ltd.",
+              "current_price": 1293.75,
+              "return_1dy": 1.02
+            },
+            "MHRIL": {
+              "Name": "Mahindra Holidays & Resorts India Ltd.",
+              "current_price": 417.15,
+              "return_1dy": 1.79
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": " Watchlist 2",
+      "watchlists": [
+        {
+          "id": 5,
+          "basic": {
+            "Name": "Axis Bank Limited",
+            "Symbol": "AXISBANK",
+            "Industry": "Consumer Services",
+            "Price": 1204.95,
+            "Price_Change": 0.08
+          },
+          "price_chart": {
+            "Weekly_Price": {
+              "2023-08-18": 180.7,
+              "2023-08-25": 159.2,
+              "2023-09-01": 162.7,
+              "2023-09-08": 175.1,
+              "2023-09-11": 184.95,
+              "2023-09-12": 162.7,
+              "2023-09-15": 175.1,
+              "2023-09-16": 154.95,
+              "2023-09-17": 184.95,
+              "2023-09-20": 162.7,
+              "2023-09-23": 175.1,
+              "2023-09-25": 154.95,
+              "2023-08-13": 180.7,
+              "2023-08-23": 159.2,
+              "2023-09-02": 162.7,
+              "2023-09-21": 175.1,
+              "2023-09-14": 184.95,
+              "2023-09-13": 162.7,
+              "2023-10-24": 175.1,
+              "2023-10-26": 154.95,
+              "2023-09-27": 184.95,
+              "2023-11-20": 162.7,
+              "2023-12-23": 175.1,
+              "2023-10-05": 154.95,
+              "2023-10-18": 180.7,
+              "2023-10-27": 159.2,
+              "2023-10-01": 162.7,
+              "2023-10-08": 175.1,
+              "2023-10-11": 184.95,
+              "2023-10-12": 162.7,
+              "2023-10-15": 175.1,
+              "2023-10-16": 154.95,
+              "2023-10-17": 184.95,
+              "2023-10-20": 162.7,
+              "2023-10-23": 175.1,
+              "2023-10-25": 154.95
+            }
+          },
+          "financial": 73.74,
+          "technical": {
+            "Trend": "Neutral",
+            "Target": 0,
+            "StopLoss": 0
+          },
+          "strength": [
+            "Sales Growth qoq: Very Good",
+            "Margin: Very Good",
+            "Dividend Payout %: Good",
+            "PE: Very Good",
+            "DE: Very Good"
+          ],
+          "weakness": [
+            "Sales Growth yoy : Very Bad",
+            "Promoters : Very Bad",
+            "ROE : Bad"
+          ],
+          "info": {
+            "Bluechip": "No",
+            "PE": 18.93,
+            "DE": 0.15,
+            "Price_Change_1day": -0.08,
+            "Price_Change_1week": -1.07,
+            "Price_Change_1month": 0.33,
+            "Price_Change_1year": -12.8
+          },
+          "RevenueTrend": {
+            "X": {
+              "January": 180.7,
+              "February": 159.2,
+              "March": 162.7,
+              "April": 175.1,
+              "May": 175.1,
+              "June": 184.95,
+              "July": 162.7,
+              "August": 175.1,
+              "September": 154.95,
+              "October": 184.95,
+              "November": 142.7,
+              "December": 154.95
+            },
+            "Y": {
+              "January": 150.7,
+              "February": 129.2,
+              "March": 152.7,
+              "April": 175.1,
+              "May": 145.1,
+              "June": 154.95,
+              "July": 172.7,
+              "August": 135.1,
+              "September": 144.95,
+              "October": 124.95,
+              "November": 162.7,
+              "December": 174.95
+            }
+          },
+          "sales_profit": {
+            "2022-06-01": {
+              "Sales": 250,
+              "Net_Profit": 57
+            },
+            "2022-09-01": {
+              "Sales": 270,
+              "Net_Profit": 69
+            },
+            "2022-12-01": {
+              "Sales": 273,
+              "Net_Profit": 85
+            },
+            "2023-03-01": {
+              "Sales": 227,
+              "Net_Profit": 51
+            },
+            "2023-06-01": {
+              "Sales": 273,
+              "Net_Profit": 68
+            }
+          },
+          "suggestions": {
+            "TRENT": {
+              "Name": "Trent Ltd.",
+              "current_price": 2085.75,
+              "return_1dy": -0.04
+            },
+            "EASEMYTRIP": {
+              "Name": "Easy Trip Planners Ltd.",
+              "current_price": 39.6,
+              "return_1dy": 2.33
+            },
+            "WESTLIFE": {
+              "Name": "Westlife Foodworld Ltd.",
+              "current_price": 969.2,
+              "return_1dy": -1.31
+            },
+            "MANYAVAR": {
+              "Name": "Vedant Fashions Ltd.",
+              "current_price": 1293.75,
+              "return_1dy": 1.02
+            },
+            "MHRIL": {
+              "Name": "Mahindra Holidays & Resorts India Ltd.",
+              "current_price": 417.15,
+              "return_1dy": 1.79
+            }
+          }
+        },
+        {
+          "id": 1,
+          "basic": {
+            "Name": "Delta Corp Limited",
+            "Symbol": "DELTACORP",
+            "Industry": "Consumer Services",
+            "Price": 204.95,
+            "Price_Change": -0.08
+          },
+          "price_chart": {
+            "Weekly_Price": {
+              "2023-08-18": 180.7,
+              "2023-08-25": 159.2,
+              "2023-09-01": 162.7,
+              "2023-09-08": 175.1,
+              "2023-09-11": 184.95,
+              "2023-09-12": 162.7,
+              "2023-09-15": 175.1,
+              "2023-09-16": 154.95,
+              "2023-09-17": 184.95,
+              "2023-09-20": 162.7,
+              "2023-09-23": 175.1,
+              "2023-09-25": 154.95
+            }
+          },
+          "financial": 60.74,
+          "technical": {
+            "Trend": "Neutral",
+            "Target": 0,
+            "StopLoss": 0
+          },
+          "strength": [
+            "Sales Growth qoq: Very Good",
+            "Margin: Very Good",
+            "Dividend Payout %: Good",
+            "PE: Very Good",
+            "DE: Very Good"
+          ],
+          "weakness": [
+            "Sales Growth yoy: Very Bad",
+            "Promoters: Very Bad",
+            "ROE: Bad"
+          ],
+          "info": {
+            "Bluechip": "No",
+            "PE": 18.93,
+            "DE": 0.15,
+            "Price_Change_1day": -0.08,
+            "Price_Change_1week": -1.07,
+            "Price_Change_1month": 0.33,
+            "Price_Change_1year": -12.8
+          },
+          "RevenueTrend": {
+            "X": {
+              "January": 180.7,
+              "February": 159.2,
+              "March": 162.7,
+              "April": 175.1,
+              "May": 175.1,
+              "June": 184.95,
+              "July": 162.7,
+              "August": 175.1,
+              "September": 154.95,
+              "October": 184.95,
+              "November": 162.7,
+              "December": 154.95
+            },
+            "Y": {
+              "January": 110.7,
+              "February": 159.2,
+              "March": 122.7,
+              "April": 175.1,
+              "May": 185.1,
+              "June": 134.95,
+              "July": 152.7,
+              "August": 165.1,
+              "September": 174.95,
+              "October": 134.95,
+              "November": 112.7,
+              "December": 1974.95
+            }
+          },
+          "sales_profit": {
+            "2022-06-01": {
+              "Sales": 250,
+              "Net_Profit": 57
+            },
+            "2022-09-01": {
+              "Sales": 270,
+              "Net_Profit": 69
+            },
+            "2022-12-01": {
+              "Sales": 273,
+              "Net_Profit": 85
+            },
+            "2023-03-01": {
+              "Sales": 227,
+              "Net_Profit": 51
+            },
+            "2023-06-01": {
+              "Sales": 273,
+              "Net_Profit": 68
+            }
+          },
+          "suggestions": {
+            "TRENT": {
+              "Name": "Trent Ltd.",
+              "current_price": 2085.75,
+              "return_1dy": -0.04
+            },
+            "EASEMYTRIP": {
+              "Name": "Easy Trip Planners Ltd.",
+              "current_price": 39.6,
+              "return_1dy": 2.33
+            },
+            "WESTLIFE": {
+              "Name": "Westlife Foodworld Ltd.",
+              "current_price": 969.2,
+              "return_1dy": -1.31
+            },
+            "MANYAVAR": {
+              "Name": "Vedant Fashions Ltd.",
+              "current_price": 1293.75,
+              "return_1dy": 1.02
+            },
+            "MHRIL": {
+              "Name": "Mahindra Holidays & Resorts India Ltd.",
+              "current_price": 417.15,
+              "return_1dy": 1.79
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Watchlist 3",
+      "watchlists": [
+        {
+          "id": 6,
+          "basic": {
+            "Name": "IndusInd Bank Limited",
+            "Symbol": "INDUSINDBK",
+            "Industry": "Consumer Services",
+            "Price": 1458.25,
+            "Price_Change": 2.08
+          },
+          "price_chart": {
+            "Weekly_Price": {
+              "2023-08-18": 180.7,
+              "2023-08-25": 159.2,
+              "2023-09-01": 162.7,
+              "2023-09-08": 175.1,
+              "2023-09-11": 184.95,
+              "2023-09-12": 162.7,
+              "2023-09-15": 175.1,
+              "2023-09-16": 154.95,
+              "2023-09-17": 184.95,
+              "2023-09-20": 162.7,
+              "2023-09-23": 175.1,
+              "2023-09-25": 154.95
+            }
+          },
+          "financial": 60.74,
+          "technical": {
+            "Trend": "High",
+            "Target": 10,
+            "StopLoss": 30
+          },
+          "strength": [
+            "Sales Growth qoq: Very Good",
+            "Margin: Very Good",
+            "Dividend Payout %: Good",
+            "PE: Very Good",
+            "DE: Very Good"
+          ],
+          "weakness": [
+            "Sales Growth yoy: Very Bad",
+            "Promoters: Very Bad",
+            "ROE: Bad"
+          ],
+          "info": {
+            "Bluechip": "No",
+            "PE": 18.93,
+            "DE": 0.15,
+            "Price_Change_1day": -0.08,
+            "Price_Change_1week": -1.07,
+            "Price_Change_1month": 0.33,
+            "Price_Change_1year": -12.8
+          },
+          "RevenueTrend": {
+            "X": {
+              "January": 180.7,
+              "February": 159.2,
+              "March": 162.7,
+              "April": 175.1,
+              "May": 175.1,
+              "June": 184.95,
+              "July": 162.7,
+              "August": 175.1,
+              "September": 154.95,
+              "October": 184.95,
+              "November": 162.7,
+              "December": 154.95
+            },
+            "Y": {
+              "January": 130.7,
+              "February": 169.2,
+              "March": 132.7,
+              "April": 185.1,
+              "May": 115.1,
+              "June": 164.95,
+              "July": 172.7,
+              "August": 125.1,
+              "September": 154.95,
+              "October": 164.95,
+              "November": 192.7,
+              "December": 184.95
+            }
+          },
+          "sales_profit": {
+            "2022-06-01": {
+              "Sales": 250,
+              "Net_Profit": 57
+            },
+            "2022-09-01": {
+              "Sales": 270,
+              "Net_Profit": 69
+            },
+            "2022-12-01": {
+              "Sales": 273,
+              "Net_Profit": 85
+            },
+            "2023-03-01": {
+              "Sales": 227,
+              "Net_Profit": 51
+            },
+            "2023-06-01": {
+              "Sales": 273,
+              "Net_Profit": 68
+            }
+          },
+          "suggestions": {
+            "TRENT": {
+              "Name": "Trent Ltd.",
+              "current_price": 2085.75,
+              "return_1dy": -0.04
+            },
+            "EASEMYTRIP": {
+              "Name": "Easy Trip Planners Ltd.",
+              "current_price": 39.6,
+              "return_1dy": 2.33
+            },
+            "WESTLIFE": {
+              "Name": "Westlife Foodworld Ltd.",
+              "current_price": 969.2,
+              "return_1dy": -1.31
+            },
+            "MANYAVAR": {
+              "Name": "Vedant Fashions Ltd.",
+              "current_price": 1293.75,
+              "return_1dy": 1.02
+            },
+            "MHRIL": {
+              "Name": "Mahindra Holidays & Resorts India Ltd.",
+              "current_price": 417.15,
+              "return_1dy": 1.79
+            }
+          }
+        },
+        {
+          "id": 2,
+          "basic": {
+            "Name": "Reliance Industries Limited",
+            "Symbol": "RELIANCE",
+            "Industry": "Consumer Services",
+            "Price": 2453.3,
+            "Price_Change": 2.25
+          },
+          "price_chart": {
+            "Weekly_Price": {
+              "2023-08-18": 110.7,
+              "2023-08-25": 159.2,
+              "2023-09-01": 162.7,
+              "2023-09-08": 125.1,
+              "2023-09-11": 174.95,
+              "2023-09-12": 122.7,
+              "2023-09-15": 155.1,
+              "2023-09-16": 194.95,
+              "2023-09-17": 134.95,
+              "2023-09-20": 152.7,
+              "2023-09-23": 165.1,
+              "2023-09-25": 154.95
+            }
+          },
+          "RevenueTrend": {
+            "X": {
+              "January": 130.7,
+              "February": 129.2,
+              "March": 142.7,
+              "April": 175.1,
+              "May": 125.1,
+              "June": 134.95,
+              "July": 142.7,
+              "August": 125.1,
+              "September": 154.95,
+              "October": 154.95,
+              "November": 166.7,
+              "December": 154.95
+            },
+            "Y": {
+              "January": 130.7,
+              "February": 129.2,
+              "March": 152.7,
+              "April": 165.1,
+              "May": 125.1,
+              "June": 114.95,
+              "July": 162.7,
+              "August": 135.1,
+              "September": 174.95,
+              "October": 184.95,
+              "November": 122.7,
+              "December": 194.95
+            }
+          },
+          "financial": 40.14,
+          "technical": {
+            "Trend": "High",
+            "Target": 10,
+            "StopLoss": 18
+          },
+          "strength": [
+            "Sales Growth qoq : Very Good",
+            "Margin : Very Good",
+            "Dividend Payout % : Good",
+            "PE : Very Good",
+            "DE : Very Good"
+          ],
+          "weakness": [
+            "Sales Growth yoy : Very Bad",
+            "Promoters : Very Bad",
+            "ROE : Bad"
+          ],
+          "info": {
+            "Bluechip": "No",
+            "PE": 18.93,
+            "DE": 0.15,
+            "Price_Change_1day": -0.08,
+            "Price_Change_1week": -1.07,
+            "Price_Change_1month": 0.33,
+            "Price_Change_1year": -12.8
+          },
+          "sales_profit": {
+            "2022-06-01": {
+              "Sales": 250,
+              "Net_Profit": 57
+            },
+            "2022-09-01": {
+              "Sales": 270,
+              "Net_Profit": 69
+            },
+            "2022-12-01": {
+              "Sales": 273,
+              "Net_Profit": 85
+            },
+            "2023-03-01": {
+              "Sales": 227,
+              "Net_Profit": 51
+            },
+            "2023-06-01": {
+              "Sales": 273,
+              "Net_Profit": 68
+            }
+          },
+          "suggestions": {
+            "TRENT": {
+              "Name": "Trent Ltd.",
+              "current_price": 2085.75,
+              "return_1dy": -0.04
+            },
+            "EASEMYTRIP": {
+              "Name": "Easy Trip Planners Ltd.",
+              "current_price": 39.6,
+              "return_1dy": 2.33
+            },
+            "WESTLIFE": {
+              "Name": "Westlife Foodworld Ltd.",
+              "current_price": 969.2,
+              "return_1dy": -1.31
+            },
+            "MANYAVAR": {
+              "Name": "Vedant Fashions Ltd.",
+              "current_price": 1293.75,
+              "return_1dy": 1.02
+            },
+            "MHRIL": {
+              "Name": "Mahindra Holidays & Resorts India Ltd.",
+              "current_price": 417.15,
+              "return_1dy": 1.79
+            }
+          }
+        },
+        {
+          "id": 3,
+          "basic": {
+            "Name": "HDFC Bank Limited",
+            "Symbol": "DFCBANK",
+            "Industry": "Consumer Services",
+            "Price": 1642.9,
+            "Price_Change": -0.08
+          },
+          "price_chart": {
+            "Weekly_Price": {
+              "2023-08-18": 180.7,
+              "2023-08-25": 159.2,
+              "2023-09-01": 162.7,
+              "2023-09-08": 175.1,
+              "2023-09-11": 184.95,
+              "2023-09-12": 162.7,
+              "2023-09-15": 175.1,
+              "2023-09-16": 154.95,
+              "2023-09-17": 184.95,
+              "2023-09-20": 162.7,
+              "2023-09-23": 175.1,
+              "2023-09-25": 154.95
+            }
+          },
+          "RevenueTrend": {
+            "X": {
+              "January": 120.7,
+              "February": 149.2,
+              "March": 162.7,
+              "April": 165.1,
+              "May": 175.1,
+              "June": 164.95,
+              "July": 167.7,
+              "August": 185.1,
+              "September": 124.95,
+              "October": 184.95,
+              "November": 152.7,
+              "December": 124.95
+            },
+            "Y": {
+              "January": 130.7,
+              "February": 129.2,
+              "March": 152.7,
+              "April": 165.1,
+              "May": 125.1,
+              "June": 114.95,
+              "July": 162.7,
+              "August": 135.1,
+              "September": 174.95,
+              "October": 184.95,
+              "November": 122.7,
+              "December": 194.95
+            }
+          },
+          "financial": 64.74,
+          "technical": {
+            "Trend": "High",
+            "Target": 10,
+            "StopLoss": 13
+          },
+          "strength": [
+            "Sales Growth qoq: Very Good",
+            "Margin: Very Good",
+            "Dividend Payout %: Good",
+            "PE: Very Good",
+            "DE: Very Good"
+          ],
+          "weakness": [
+            "Sales Growth yoy: Very Bad",
+            "Promoters: Very Bad",
+            "ROE: Bad"
+          ],
+          "info": {
+            "Bluechip": "No",
+            "PE": 18.93,
+            "DE": 0.15,
+            "Price_Change_1day": -0.08,
+            "Price_Change_1week": -1.07,
+            "Price_Change_1month": 0.33,
+            "Price_Change_1year": -12.8
+          },
+          "sales_profit": {
+            "2022-06-01": {
+              "Sales": 250,
+              "Net_Profit": 57
+            },
+            "2022-09-01": {
+              "Sales": 270,
+              "Net_Profit": 69
+            },
+            "2022-12-01": {
+              "Sales": 273,
+              "Net_Profit": 85
+            },
+            "2023-03-01": {
+              "Sales": 227,
+              "Net_Profit": 51
+            },
+            "2023-06-01": {
+              "Sales": 273,
+              "Net_Profit": 68
+            }
+          },
+          "suggestions": {
+            "TRENT": {
+              "Name": "Trent Ltd.",
+              "current_price": 2085.75,
+              "return_1dy": -0.04
+            },
+            "EASEMYTRIP": {
+              "Name": "Easy Trip Planners Ltd.",
+              "current_price": 39.6,
+              "return_1dy": 2.33
+            },
+            "WESTLIFE": {
+              "Name": "Westlife Foodworld Ltd.",
+              "current_price": 969.2,
+              "return_1dy": -1.31
+            },
+            "MANYAVAR": {
+              "Name": "Vedant Fashions Ltd.",
+              "current_price": 1293.75,
+              "return_1dy": 1.02
+            },
+            "MHRIL": {
+              "Name": "Mahindra Holidays & Resorts India Ltd.",
+              "current_price": 417.15,
+              "return_1dy": 1.79
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": " Watchlist 4",
+      "watchlists": [
+        {
+          "id": 1,
+          "basic": {
+            "Name": "Delta Corp Limited",
+            "Symbol": "DELTACORP",
+            "Industry": "Consumer Services",
+            "Price": 204.95,
+            "Price_Change": -0.08
+          },
+          "price_chart": {
+            "Weekly_Price": {
+              "2023-08-18": 180.7,
+              "2023-08-25": 159.2,
+              "2023-09-01": 162.7,
+              "2023-09-08": 175.1,
+              "2023-09-11": 184.95,
+              "2023-09-12": 162.7,
+              "2023-09-15": 175.1,
+              "2023-09-16": 154.95,
+              "2023-09-17": 184.95,
+              "2023-09-20": 162.7,
+              "2023-09-23": 175.1,
+              "2023-09-25": 154.95
+            }
+          },
+          "financial": 60.74,
+          "technical": {
+            "Trend": "Neutral",
+            "Target": 0,
+            "StopLoss": 0
+          },
+          "strength": [
+            "Sales Growth qoq: Very Good",
+            "Margin: Very Good",
+            "Dividend Payout %: Good",
+            "PE: Very Good",
+            "DE: Very Good"
+          ],
+          "weakness": [
+            "Sales Growth yoy: Very Bad",
+            "Promoters: Very Bad",
+            "ROE: Bad"
+          ],
+          "info": {
+            "Bluechip": "No",
+            "PE": 18.93,
+            "DE": 0.15,
+            "Price_Change_1day": -0.08,
+            "Price_Change_1week": -1.07,
+            "Price_Change_1month": 0.33,
+            "Price_Change_1year": -12.8
+          },
+          "RevenueTrend": {
+            "X": {
+              "January": 180.7,
+              "February": 159.2,
+              "March": 162.7,
+              "April": 175.1,
+              "May": 175.1,
+              "June": 184.95,
+              "July": 162.7,
+              "August": 175.1,
+              "September": 154.95,
+              "October": 184.95,
+              "November": 162.7,
+              "December": 154.95
+            },
+            "Y": {
+              "January": 110.7,
+              "February": 159.2,
+              "March": 122.7,
+              "April": 175.1,
+              "May": 185.1,
+              "June": 134.95,
+              "July": 152.7,
+              "August": 165.1,
+              "September": 174.95,
+              "October": 134.95,
+              "November": 112.7,
+              "December": 1974.95
+            }
+          },
+          "sales_profit": {
+            "2022-06-01": {
+              "Sales": 250,
+              "Net_Profit": 57
+            },
+            "2022-09-01": {
+              "Sales": 270,
+              "Net_Profit": 69
+            },
+            "2022-12-01": {
+              "Sales": 273,
+              "Net_Profit": 85
+            },
+            "2023-03-01": {
+              "Sales": 227,
+              "Net_Profit": 51
+            },
+            "2023-06-01": {
+              "Sales": 273,
+              "Net_Profit": 68
+            }
+          },
+          "suggestions": {
+            "TRENT": {
+              "Name": "Trent Ltd.",
+              "current_price": 2085.75,
+              "return_1dy": -0.04
+            },
+            "EASEMYTRIP": {
+              "Name": "Easy Trip Planners Ltd.",
+              "current_price": 39.6,
+              "return_1dy": 2.33
+            },
+            "WESTLIFE": {
+              "Name": "Westlife Foodworld Ltd.",
+              "current_price": 969.2,
+              "return_1dy": -1.31
+            },
+            "MANYAVAR": {
+              "Name": "Vedant Fashions Ltd.",
+              "current_price": 1293.75,
+              "return_1dy": 1.02
+            },
+            "MHRIL": {
+              "Name": "Mahindra Holidays & Resorts India Ltd.",
+              "current_price": 417.15,
+              "return_1dy": 1.79
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "MyPortfolio": [
+    {
+      "id": 1,
+      "userId": 1,
+      "addedStocks": [
+        {
+          "stock": {
+            "id": 2,
+            "name": "Reliance Industries Limited",
+            "symbol": "RELIANCE"
+          },
+          "unit": "3",
+          "averagePrice": "4"
+        }
+      ]
+    }
+  ],
+  "OverallScore": {
+    "avg_pe": 57.84143968586438,
+    "bluechips": 0,
+    "fundamental_score": 62.3017094017094,
+    "industry_exposure_score": 80,
+    "portfolio_score": 80.35586647218383,
+    "reward": 51.24543762207032,
+    "risk": -9.598945426940919,
+    "stock_ls": [
+      "CENTURYTEX",
+      "BSE",
+      "MAHLIFE",
+      "CESC",
+      "GLAND"
+    ]
+  },
+  "PortfolioX": {
+    "n50_portfolio": [
+      {
+        "avg_pe": 30.21,
+        "bluechips": 100,
+        "fundamental_score": 58.81,
+        "industry_exposure_score": 83.3,
+        "portfolio_score": 75.7,
+        "reward": 55.17,
+        "risk": -10.34,
+        "stock_ls": "['ONGC', 'BAJAJ-AUTO', 'DRREDDY', 'LT', 'ADANIPORTS', 'JIOFIN']"
+      }
+    ],
+    "portfolio": [
+      {
+        "avg_pe": 35.62,
+        "bluechips": 25,
+        "fundamental_score": 60.43,
+        "industry_exposure_score": 87.5,
+        "portfolio_score": 80.55,
+        "reward": 44.72,
+        "risk": -10.53,
+        "stock_ls": "['MOTILALOFS', 'SJVN', 'ESCORTS', 'CENTURYTEX', 'INTELLECT', 'DRREDDY', 'LINDEINDIA', 'ADANIPORTS']"
+      }
+    ]
+  },
+  "Pricing": [
+    {
+      "id": 1,
+      "name": "Guest",
+      "description": "Best option for personal use & for your next project.",
+      "price": 0,
+      "currency": "$",
+      "features": [
+        {
+          "name": "Individual configuration",
+          "isAvailable": true
+        },
+        {
+          "name": "No setup, or hidden fees",
+          "isAvailable": true
+        },
+        {
+          "name": "Team size: 1 developer",
+          "isAvailable": true
+        },
+        {
+          "name": "Premium support: 6 months",
+          "isAvailable": true
+        },
+        {
+          "name": "Free updates: 6 months",
+          "isAvailable": true
+        }
+      ],
+      "type": "guest"
+    },
+    {
+      "id": 2,
+      "name": "Guest",
+      "description": "Best option for personal use & for your next project.",
+      "price": 9,
+      "currency": "$",
+      "features": [
+        {
+          "name": "Individual configuration",
+          "isAvailable": true
+        },
+        {
+          "name": "No setup, or hidden fees",
+          "isAvailable": true
+        },
+        {
+          "name": "Team size: 5 developer",
+          "isAvailable": true
+        },
+        {
+          "name": "Premium support: 12 months",
+          "isAvailable": true
+        },
+        {
+          "name": "Free updates: 12 months",
+          "isAvailable": true
+        }
+      ],
+      "type": "user"
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "description": "Best option for personal use & for your next project.",
+      "price": 99,
+      "currency": "$",
+      "features": [
+        {
+          "name": "Individual configuration",
+          "isAvailable": true
+        },
+        {
+          "name": "No setup, or hidden fees",
+          "isAvailable": true
+        },
+        {
+          "name": "Team size: 10 developer",
+          "isAvailable": true
+        },
+        {
+          "name": "Premium support: 24 months",
+          "isAvailable": true
+        },
+        {
+          "name": "Free updates: 24 months",
+          "isAvailable": true
+        }
+      ],
+      "type": "premium"
+    }
+  ],
+  "FAQ": [
+    {
+      "title": "How much do i need to pay for this?",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nesciunt beatae debitis delectus pariatur nostrum maiores magni quibusdam officia tempore quis ea molestiae ducimus error nemo, tenetur possimus, earum illo. Impedit nesciunt beatae debitis delectus pariatur nostrum maiores magni quibusdam officia tempore quis ea molestiae ducimus error nemo, tenetur possimus, earum illo."
+    },
+    {
+      "title": "Can i delete my account?",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nesciunt beatae debitis delectus pariatur nostrum maiores magni quibusdam officia tempore quis ea molestiae ducimus error nemo, tenetur possimus, earum illo. Impedit nesciunt beatae debitis delectus pariatur nostrum maiores magni quibusdam officia tempore quis ea molestiae ducimus error nemo, tenetur possimus, earum illo."
+    },
+    {
+      "title": "Is this accordion styled in Tailwind CSS?",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nesciunt beatae debitis delectus pariatur nostrum maiores magni quibusdam officia tempore quis ea molestiae ducimus error nemo, tenetur possimus, earum illo. Impedit nesciunt beatae debitis delectus pariatur nostrum maiores magni quibusdam officia tempore quis ea molestiae ducimus error nemo, tenetur possimus, earum illo."
+    }
   ]
 }
